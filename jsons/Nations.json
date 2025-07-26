@@ -7,32 +7,26 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "All hail, Imperator! Our expedition has borne fruit. After long years of vigilance and preparation, we have at last discovered a land worthy of Arkanthéa — one that shall test not only the passage of time, but the resolve of any enemy who dares oppose us. The Arkanians await your triumph with pride and unwavering faith.",
-		"startIntroPart2": "",
+		"startIntroPart2": "Imperator, the gods have favored us once more. A new land lies before us — ripe for conquest, worthy of our banners. Raise the standards, ready the blades! Let the world learn who stands above all others: Arkanthéa, eternal and unmatched.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "Your attacks are futile mere mortal.",
+		"defeated": "I believed we would stand forever. Now, I see even gods can fall.",
+		"introduction": "A mortal stands before me. Bold. Let us see if the gods sent a servant... or a sacrifice.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"neutralHello": "Greetings, mere mortal. You stand before Arkanthéa — world of the gods, cradle of law, and seat of everlasting dominion. Conduct yourself accordingly.",
+		"hateHello": "This world suffers enough without your kind wandering it. Speak quickly — Arkanthéa does not entertain vermin for long.",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "Trade with Arkanthéa is a privilege. Treat it as such, or we’ll take what you hoard by other means.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [219,165,66],
+		"innerColor": [245,73,39],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Flame of Order",
+		"unique": ["[+20]% Strength <when fighting in [Foreign land] tiles>","[+1 Culture] from [Grasslands] tiles [in all cities]",
+		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa",
+			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira",
+			"Hallaxa","Illustrium","Nivaroth"],
+		]
 	}
 ]
