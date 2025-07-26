@@ -25,9 +25,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Flame of Order",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign land] tiles>","[+1 Culture] from [Grasslands] tiles [in all cities]",
-		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa",
-			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira",
-			"Hallaxa","Illustrium","Nivaroth"],
+		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa","Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira","Hallaxa","Illustrium","Nivaroth"],
 		]
 	}
 ]
