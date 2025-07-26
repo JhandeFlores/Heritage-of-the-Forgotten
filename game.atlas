@@ -1,34 +1,34 @@
 
 game.png
-size: 512, 128
+size: 512, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 112, 4
+  xy: 320, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 210, 4
+  xy: 212, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 64, 5
+  xy: 212, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Elitonares
   rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
