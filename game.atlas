@@ -13,14 +13,14 @@ BuildingIcons/Breeders
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 3000, 4
+  xy: 210, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 4, 4
+  xy: 3000, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
