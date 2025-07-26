@@ -19,7 +19,7 @@
 		"cost": 65,
 		"hurryCostModifier": 200,
 		"culture": 1,
-		"uniques": ["New Military units starts with 20XP in this city; Destroyed when the city is captured"],
+		"uniques": ["New Military units starts with 20 XP in this city: Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}
 ]
