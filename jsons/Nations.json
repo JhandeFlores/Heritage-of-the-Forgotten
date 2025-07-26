@@ -6,8 +6,8 @@
 		"startBias": ["River"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "All hail, Imperator! Our expedition has borne fruit. After long years of vigilance and preparation, we have at last discovered a land worthy of Arkanthéa — one that shall test not only the passage of time, but the resolve of any enemy who dares oppose us. The Arkanians await your triumph with pride and unwavering faith.",
+		"startIntroPart2": "",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
