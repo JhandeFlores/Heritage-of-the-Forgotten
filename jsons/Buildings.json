@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Domus Bellica",
+		"replaces": "Barracks",
+		"uniqueTo": "Arkanthéa",
+		"cost": 65,
+		"hurryCostModifier": 200,
+		"culture": 1,
+		"uniques": ["New Military units starts with 20XP in this city; Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
 	}
 ]
