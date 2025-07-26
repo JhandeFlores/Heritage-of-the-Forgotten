@@ -21,7 +21,7 @@
 		"tradeRequest": "Trade with Arkanthéa is a privilege. Treat it as such, or we’ll take what you hoard by other means.",
 
 		"outerColor": [245,73,39],
-		"innerColor": [272,67,23],
+		"innerColor": [62,36,101],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Flame of Order",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign land] tiles>","[+1 Culture] from [Grasslands] tiles [in all cities]"],
