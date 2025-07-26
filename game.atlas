@@ -20,7 +20,7 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 3000, 4
+  xy: 3000, 3000
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
