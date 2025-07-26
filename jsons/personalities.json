@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OogaBooga",
+    "production": 8,
+    "food": 1,
+    "gold": 10,
+    "science": 7,
+    "culture": 3,
+    "happiness": 1,
+    "faith": 10,
+    "military": 10,
+    "aggressive": 10,
+    "declareWar": 10,
+    "commerce": 0,
+    "diplomacy": 2,
+    "loyal": 1,
+    "expansion": 10,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 1,
+      "Patronage": 10,
+      "Piety": 9,
+      "Rationalism": 1,
+      "Freedom": 0,
+      "Autocracy": 10,
+      "Order": 0
+    }
+  },
+  {
+    
