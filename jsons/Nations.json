@@ -11,7 +11,7 @@
 		"startIntroPart2": "Shall then, It is our time to reign in this uncivilized lands",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "Your attacks are futile mere mortal.",
+		"attacked": "Your attacks are no match for us, mere mortal.",
 		"defeated": "I believed we would stand forever. Now, I see even gods can fall.",
 		"introduction": "A mortal stands before me. Bold. Let us see if the gods sent a servant... or a sacrifice.",
 		
@@ -39,6 +39,14 @@
 
 		"startIntroPart1": "I could scarcely believe my eyes — my Tamakhet, our Veiled Judge of Dunes, Tulepsar, has not forsaken us! Amid the cruel breath of the desert, we have found not mere water... but a river! A gift carved through the sands by divine will. Rejoice, for in this lifeline we are reborn. We shall rise from the dust, build upon its banks, and offer our worship to Tulepsar, who weighs all in silence.",
 		"startIntroPart2": "My Tamakhet, it is our time to forge our cities from dust.",
+
+		"declaringWar": "Tremble, Nekatu! Your armies shall be swallowed whole by the sands of our Veiled Judge of Dunes, Tulepsar!",
+		"attacked": "You fight the desert with steel? Amusing.",
+		"defeated": "You—what are you? To break the hand of the divine… You must be the form of 'Dushem' in the fires beneath the underworld!",
+		"Introduction": "Opp! Kneel before Tulepsar, the Veiled Judge of Dunes, and you shall walk Zamutra’s sacred sands unscorched and unopposed.",
+
+		"neutralHello": "Ahh, Nekatu… Come bearing tribute for the Judge of Dunes? Or perhaps a proposal forged in mutual gain?",
+		"hateHello": "Nekatu, you again?? Speak your wishes before the Judge of Dune loses his patience.",
 
 		"tradeRequest": "‘O Nekatu of distant sands! By the will of Tulepsar, the Judge of Dunes, the children of Zamutra bring forth sacred offerings. Accept them in reverence — or bear the shifting wrath of the desert.",
 
