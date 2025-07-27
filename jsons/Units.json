@@ -12,5 +12,21 @@
 		"requiredResource": "Iron",
 		"promotions": ["Shock I"],
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Thamusera",
+		"unitType": "Sword",
+		"uniqueTo": "Zamutra",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["May upgrade to [Longswordsman] through ruin-like effects"],
+		"obsoleteTech": "Steel",
+		"requireResource": "Iron",
+		"hurryCostModifier": 10,
+		"attackSound": "metalhit"
+	},
 ]
