@@ -26,14 +26,14 @@
 		"uniqueName": "Flame of Order",
 		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+1 Culture] from every [Grassland]"],
 		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa",
-			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira",
+			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira", 
 			"Hallaxa","Illustrium","Nivaroth"],
 	},
 	{
 		"name": "Zamutra",
 		"leaderName": "Ishkaru Velmuneth III",
 		"adjective": ["Zamutranians"],
-		"startBias": ["Desert","River","Avoid [Tundra]","Avoid [Grassland]","Avoid [Hill]","Avoid [Coast]","Avoid [Snow]","Avoid [Plains]"],
+		"startBias": ["Desert","River","Avoid [Tundra]","Avoid [Grassland]","Avoid [Hill]","Avoid [Coast]","Avoid [Snow]","Avoid [Plains]","Avoid [Jungle]","Avoid [Forest]","Avoid [Marsh]","Avoid [Lakes]","Avoid [Ice]","Avoid [Mountain]","Avoid [Ocean]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ishkaru",
 
