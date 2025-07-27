@@ -25,6 +25,13 @@ NationIcons/Arkanthéa
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Zamutra
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Elitonares
   rotate: false
   xy: 420, 4
