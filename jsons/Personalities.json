@@ -27,5 +27,34 @@
       "Autocracy": 10,
       "Order": 0
     }
+  },
+  {
+    "name": "Ishkaru",
+    "production": 10,
+    "food": 5,
+    "gold": 9,
+    "science": 6,
+    "culture": 7,
+    "happiness": 4,
+    "faith": 10,
+    "military": 5,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 10,
+    "diplomacy": 8,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 8,
+      "Commerce": 10,
+      "Patronage": 7,
+      "Piety": 10,
+      "Rationalism": 2,
+      "Freedom": 7,
+      "Autocracy": 2,
+      "Order": 0,
+    }
   }
 ]
