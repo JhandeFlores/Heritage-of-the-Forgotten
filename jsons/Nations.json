@@ -28,5 +28,13 @@
 		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa",
 			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira",
 			"Hallaxa","Illustrium","Nivaroth"],
-	}
-]
+	},
+	{
+		"name": "Zamutra",
+		"leaderName": "Ishkaru Velmuneth III",
+		"adjective": ["Zamutranians"],
+		"startBias": ["Desert","River","Avoid [Tundra]","Avoid [Grasslands]","Avoid [Hill]","Avoid [Coast]","Avoid [Snow]","Avoid [Plains]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Ishkaru",
+
+		"startIntroPart1": "
