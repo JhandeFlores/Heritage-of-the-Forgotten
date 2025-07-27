@@ -21,5 +21,18 @@
 		"uniques": ["New [Military] units starts with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working",
 		"quote": "Imperator, the Domus Bellica stands tall. Within its stone and flame, soldiers are forged through discipline so brutal, it rivals the torments of hell. They train not just to serve — but to challenge the very gods, should war break upon us. -Praefectus Caelus Verrian, Master of War Doctrine"
-	}
+	},
+	{
+		"name": "Divine Tulepsar",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Zamutra",
+		"cost": 200,
+		"gold": 2,
+		"production": 1,
+		"faith": 5,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [20] per owned city", "[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true,
+		"quote": "No mortal dares defy us now — for at the sight of this majestic sanctum, even the boldest shall tremble. Let them think twice before challenging Zamutra... and the will of the Veiled Judge of Dunes. -Khatimel, Kaftain of the first dune front."
+	},	
 ]
