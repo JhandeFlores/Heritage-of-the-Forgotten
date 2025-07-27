@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Bibliotheca Sanctum",
+		"replaces": "Library",
+		"uniqueTo": "Arkanthéa",
+		"maintenance": 1,
+		"hurryCostModifier": 100,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"percentStatBonus": {"culture": 5},
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing",
+		"quote": "Imperator, the unveiling of our illustrious Bibliotheca Sanctum marks a new dawn. Here, the greatest minds of Arkanthéa converge, forging enlightenment in service to the Imperium’s eternal reign. -Senator Vellor Quintarion"
 	},
 	{
 		"name": "Domus Bellica",
 		"replaces": "Barracks",
 		"uniqueTo": "Arkanthéa",
-		"cost": 65,
-		"hurryCostModifier": 200,
+		"maintenance": 1,
+		"hurryCostModifier": 50,
 		"culture": 1,
-		"uniques": ["New Military units starts with 20 XP in this city: Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
+		"uniques": ["New [Military] units starts with [20] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working",
+		"quote": "Imperator, the Domus Bellica stands tall. Within its stone and flame, soldiers are forged through discipline so brutal, it rivals the torments of hell. They train not just to serve — but to challenge the very gods, should war break upon us. -Praefectus Caelus Verrian, Master of War Doctrine"
 	}
 ]
