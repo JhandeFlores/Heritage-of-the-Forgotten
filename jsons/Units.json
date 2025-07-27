@@ -18,7 +18,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Zamutra",
 		"replaces": "Swordsman",
-		"movement": 2,
+		"movement": 2
 		"strength": 10,
 		"cost": 50,
 		"requiredTech": "Iron Working",
@@ -27,6 +27,20 @@
 		"obsoleteTech": "Steel",
 		"requireResource": "Iron",
 		"hurryCostModifier": 10,
+		"attackSound": "metalhit"
+	},
+	{
+		"name:" "Zuleptares",
+		"unitType": "Sword",
+		"uniqueTo": "Zamutra",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 23,
+		"cost": 230,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Heals [+10%] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
 ]
