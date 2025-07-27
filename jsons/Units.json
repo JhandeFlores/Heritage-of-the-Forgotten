@@ -30,7 +30,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name:" "Zuleptares",
+		"name": "Zuleptares",
 		"unitType": "Sword",
 		"uniqueTo": "Zamutra",
 		"replaces": "Longswordsman",
