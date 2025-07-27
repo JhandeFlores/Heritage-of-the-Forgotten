@@ -27,7 +27,7 @@ NationIcons/Arkanthéa
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 736, 104
+  xy: 844, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -37,5 +37,12 @@ UnitIcons/Elitonares
   xy: 420, 4
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Thamusera
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
