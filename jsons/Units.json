@@ -40,7 +40,7 @@
 		"requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Heals [+10%] damage if it kills a unit"],
+		"uniques": ["Heals [2] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
 ]
