@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,38 +11,52 @@ BuildingIcons/Bibliotheca Sanctum
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Domus Bellica
+BuildingIcons/Divine Tulepsar
   rotate: false
   xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Arkanthéa
-  rotate: false
-  xy: 628, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Zamutra
-  rotate: false
-  xy: 844, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Elitonares
+BuildingIcons/Domus Bellica
   rotate: false
   xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Thamusera
+NationIcons/Arkanthéa
   rotate: false
-  xy: 736, 104
+  xy: 1252, 104
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zamutra
+  rotate: false
+  xy: 1360, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elitonares
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Thamusera
+  rotate: false
+  xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Zuleptares
+  rotate: false
+  xy: 1044, 4
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
