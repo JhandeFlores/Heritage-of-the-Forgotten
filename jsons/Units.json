@@ -25,7 +25,7 @@
 		"upgradesTo": "Longswordsman",
 		"uniques": ["May upgrade to [Longswordsman] through ruin-like effects"],
 		"obsoleteTech": "Steel",
-		"requireResource": "Iron",
+		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
 		"attackSound": "metalhit"
 	},
