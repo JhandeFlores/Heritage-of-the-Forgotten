@@ -33,6 +33,6 @@
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [20] per owned city", "[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true,
-		"quote": "No mortal dares defy us now — for at the sight of this majestic sanctum, even the boldest shall tremble. Let them think twice before challenging Zamutra... and the will of the Veiled Judge of Dunes. -Khatimel, Kaftain of the first dune front."
+		"quote": "'No mortal dares defy us now — for at the sight of this majestic sanctum, even the boldest shall tremble. Let them think twice before challenging Zamutra... and the will of the Veiled Judge of Dunes.' -Khatimel, Kaftain of the first dune front"
 	},	
 ]
