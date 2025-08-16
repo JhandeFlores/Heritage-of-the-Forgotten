@@ -82,7 +82,7 @@
 
 		"outerColor": [0,56,168],
 		"innerColor": [253,201,2],
-		"favoredReligion": "Confucianism"
+		"favoredReligion": "Confucianism",
 		"uniqueName": "People of Cultured and Prosperity",
 		"uniques": ["[+1 Gold] [in all cities]","[+1 Culture] [in all cities]"],
 		"cities": ["Fenyang","Lianzhou","Shuyin","Qianhai","Meixian","Hanqiu","Xingdao","Longtai","Baiyun","Jinhai","Yongzhen","Zhuyang","Caixia","Ruiming","Tianshui","Guangzhouo","Zhongyue","Huailan","Mingdao","Shenhai"],
