@@ -80,5 +80,12 @@
 
 		"tradeRequest": "Oh, emissary of another land, here are the gifts of Fenyang. They are but humble works of our artisans, yet they carry our heart. Should you accept, we rejoice; should you refuse, we bow in understanding.",
 
+		"outerColor": [0,56,168],
+		"innerColor": [253,201,2],
+		"favoredReligion": "Confucianism"
+		"uniqueName": "People of Cultured and Prosperity",
+		"uniques": ["[+1 Gold] [in all cities]","[+1 Culture] [in all cities]"],
+		"cities": ["Fenyang","Lianzhou","Shuyin","Qianhai","Meixian","Hanqiu","Xingdao","Longtai","Baiyun","Jinhai","Yongzhen","Zhuyang","Caixia","Ruiming","Tianshui","Guangzhouo","Zhongyue","Huailan","Mingdao","Shenhai"],
+	}
 ]
 
