@@ -56,5 +56,34 @@
       "Autocracy": 2,
       "Order": 0,
     }
+  },
+  {
+    "name": "Yun Qianlong",
+    "production": 5,
+    "food": 6,
+    "gold": 9,
+    "science": 7,
+    "culture": 10,
+    "happiness": 5,
+    "faith": 9,
+    "military": 4,
+    "aggressive": 4,
+    "declareWar": 4,
+    "commerce": 10,
+    "diplomacy": 9,
+    "loyal": 8,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 9,
+      "Liberty": 8,
+      "Honor": 7,
+      "Commerce": 10,
+      "Patronage": 8,
+      "Piety": 9,
+      "Rationalism": 4,
+      "Freedom": 9,
+      "Autocracy": 2,
+      "Order": 0,
+    }
   }
 ]
