@@ -58,7 +58,27 @@
 		"cities": ["Nekheptra","Asumekh","Djeraten","Hekunem","Talasur","Menkaur","Zesuneth","Ulpetra",
 			"Saretun","Vautekh","Khunabek","Etnaptra","Sahureth","Tjemhara","Merukhet","Pahurun",
 			"Sabekun","Afenur","Tjusemet"],
-	}
+	},
+	{
+		"name": "Fenyang Grandasty",
+		"leaderName": "Huangxi Yun Qianlong",
+		"adjective": ["Grandese"],
+		"startBias": ["Grassland","River","Hill","Avoid [Tundra]","Avoid [Ice]","Avoid [Mountain]"],
+		"preferredVictoryType": "Cultural","Diplomatic",
+		"personality": "Yun Qianlong",
+
+		"startIntroPart1": "I can’t go on like this, Huangxi Yun. We crossed the Murotai Desert moons ago, yet the horizon still yields nothing for us to call home. Shall we abandon this dream?",
+		"startIntroPart2": "No, you say? Ugh… if you insist, Huangxi Yun. Wait—over there! A grassland… and a river! Finally! We can plant our cities here, build for generations, and forge a legacy of our own. This… this will be worth the journey! Huangxi Yun, the Grandese will surely prosper!",
+
+		"declaringWar": "I had hoped our peoples would walk together. Yet your actions leave me no choice—Fenyang shall rise over your lands, and you will be remade in our image.",
+		"attacked": "Once we drank from the same river of peace; now you poison its waters. Fenyang will cleanse the stream, but not without defending its source.",
+		"defeated": "The world has always whispered of the rise and fall of empires. Today, that whisper has become my reality.",
+		"introduction": "Oh, Greetings from another civilization. Welcome to Fenyang Grandasty, where culture and prosperity is a priority than the ones with oddity. Hope our relation would be stable as the one fine linen I have given to you.",
+		
+		"neutralHello": "Oh, Traveller! Care to discuss talks for our benificial or just wanted to witness the beauty of Fenyang again?",
+		"hateHello": "Our relationship is eerily similar to a fine broken glass—It can be fix, yes. But the scars have became already evident.",
+
+		"tradeRequest": "Oh, emissary of another land, here are the gifts of Fenyang. They are but humble works of our artisans, yet they carry our heart. Should you accept, we rejoice; should you refuse, we bow in understanding.",
 
 ]
 
