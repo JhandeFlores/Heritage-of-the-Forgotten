@@ -64,7 +64,7 @@
 		"leaderName": "Huangxi Yun Qianlong",
 		"adjective": ["Grandese"],
 		"startBias": ["Grassland","River","Hill","Avoid [Tundra]","Avoid [Ice]","Avoid [Mountain]"],
-		"preferredVictoryType": "Cultural","Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 		"personality": "Yun Qianlong",
 
 		"startIntroPart1": "I can’t go on like this, Huangxi Yun. We crossed the Murotai Desert moons ago, yet the horizon still yields nothing for us to call home. Shall we abandon this dream?",
