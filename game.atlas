@@ -32,9 +32,16 @@ NationIcons/Arkanthéa
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Zamutra
+NationIcons/Fenyang Grandasty
   rotate: false
   xy: 1360, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zamutra
+  rotate: false
+  xy: 1468, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
