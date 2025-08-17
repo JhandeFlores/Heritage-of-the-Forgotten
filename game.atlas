@@ -25,23 +25,37 @@ BuildingIcons/Domus Bellica
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Jinque
+  rotate: false
+  xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1252, 104
+  xy: 1460, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1360, 104
+  xy: 1676, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1468, 104
+  xy: 1892, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Confictus
+  rotate: false
+  xy: 1568, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -53,16 +67,23 @@ UnitIcons/Elitonares
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Qiuang Mao
+  rotate: false
+  xy: 1784, 4
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 836, 4
+  xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 1044, 4
+  xy: 1252, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
