@@ -43,4 +43,37 @@
 		"uniques": ["Heals [2] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Qiuang Mao",
+		"uniqueTo": "Fenyang Grandasty",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 20,
+		"cost": 110,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Shock I"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Confictus",
+		"unitType": "Civilian",
+		"uniqueTo": "Fenyang Grandasty",
+		"replaces": "Great Prophet",
+		"uniques": [
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [3] movement> <[5] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+            "Is part of Great Person group [Prophet]",
+			"May enter foreign tiles without open borders", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Takes your religion over the one in their birth city"],
+		"movement": 3,
+		"religiousStrength": 1100
+	},
 ]
