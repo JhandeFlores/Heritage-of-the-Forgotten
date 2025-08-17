@@ -38,6 +38,7 @@
 	{
 		"name": "Jinque",
 		"replaces": "Market",
+		"uniqueTo": "Fenyang Grandasty",
 		"gold": 3,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 35,
