@@ -15,6 +15,7 @@
 		"defeated": "I believed we would stand forever. Now, I see even gods can fall.",
 		"introduction": "A mortal stands before me. Bold. Let us see if the gods sent a servant... or a sacrifice.",
 		"denounced": "My my, being bold now, mortal? Count yourself fortunate for I have patience left.",
+		"declaringFriendship": "I have bring forth an agreement that would surely benefit not only you but also for Arkanthéa. Think wisely before refusing such rare deal."
 		
 		"neutralHello": "Greetings, mere mortal. You stand before Arkanthéa — world of the gods, cradle of law, and seat of everlasting dominion. Conduct yourself accordingly.",
 		"hateHello": "This world suffers enough without your kind wandering it. Speak quickly — Arkanthéa does not entertain vermin for long.",
@@ -45,7 +46,9 @@
 		"attacked": "You fight the desert with steel? Amusing.",
 		"defeated": "You—what are you? To break the hand of the divine… You must be the form of 'Dushem' in the fires beneath the underworld!",
 		"introduction": "Opp! Kneel before Tulepsar, the Veiled Judge of Dunes, and you shall walk Zamutra’s sacred sands unscorched and unopposed.",
-
+		"denounced": "You better watch your tongue, Nekatu! Dont defy the divine Tulepsar or else bare the actions we will put againts you.",
+		"declaringFriendship": "With this agreement, both of our civilization will be blessed by The Veiled Judge of Dunes.",
+		
 		"neutralHello": "Ahh, Nekatu… Come bearing tribute for the Judge of Dunes? Or perhaps a proposal forged in mutual gain?",
 		"hateHello": "Nekatu, you again?? Speak your wishes before the Judge of Dune loses his patience.",
 
@@ -75,6 +78,8 @@
 		"attacked": "Once we drank from the same river of peace; now you poison its waters. Fenyang will cleanse the stream, but not without defending its source.",
 		"defeated": "The world has always whispered of the rise and fall of empires. Today, that whisper has become my reality.",
 		"introduction": "Oh, Greetings from another civilization. Welcome to Fenyang Grandasty, where culture and prosperity is a priority than the ones with oddity. Hope our relation would be stable as the one fine linen I have given to you.",
+		"denounced": "Are you mocking us for being to coward? Chose your words carefully, Visitor. You dont know who you are talking to.",
+		"declaringFriendship": "Visitor, Fenyang seeks to weave stronger ties with you, that both our peoples may prosper in harmony.",
 		
 		"neutralHello": "Oh, Traveller! Care to discuss talks for our benificial or just wanted to witness the beauty of Fenyang again?",
 		"hateHello": "Our relationship is eerily similar to a fine broken glass—It can be fix, yes. But the scars have became already evident.",
