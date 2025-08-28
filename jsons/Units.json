@@ -1,4 +1,6 @@
 [
+	//Arkanthéa Units
+	
 	{
 		"name": "Elitonares",
 		"unitType": "Sword",
@@ -13,6 +15,9 @@
 		"promotions": ["Shock I"],
 		"attackSound": "metalhit"
 	},
+
+	//Zamutra Units
+	
 	{
 		"name": "Thamusera",
 		"unitType": "Sword",
@@ -43,6 +48,9 @@
 		"uniques": ["Heals [2] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
+
+       //Fenyang Grandasty Units
+	
 	{
 		"name": "Qiuang Mao",
 		"uniqueTo": "Fenyang Grandasty",
@@ -76,4 +84,18 @@
 		"movement": 3,
 		"religiousStrength": 1100
 	},
+	{
+		"name": "F.M.S. Qianlong",
+		‎"replaces": "Frigate",
+		‎"uniqueTo": "Fenyang Grandasty",
+		‎"movement": 7,
+		‎"strength": 27,
+		‎"rangedStrength": 30,
+		‎"cost": 200,
+		‎"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		‎"obsoleteTech": "Electronics",
+		‎"upgradesTo": "Battleship",
+		"hurryCostModifier": 30,
+		‎"attackSound": 
 ]
