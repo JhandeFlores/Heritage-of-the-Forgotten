@@ -98,6 +98,6 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 35,
-		‎"attackSound": "F.M.S. Qianlong",
+		"attackSound": "F.M.S. Qianlong",
 	},
 ]
