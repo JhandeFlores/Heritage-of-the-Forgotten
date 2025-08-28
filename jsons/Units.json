@@ -86,6 +86,7 @@
 	},
 	{
 		"name": "F.M.S. Qianlong",
+		"unitType": "Ranged Water",
 		‎"replaces": "Frigate",
 		‎"uniqueTo": "Fenyang Grandasty",
 		‎"movement": 7,
