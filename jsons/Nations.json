@@ -121,7 +121,7 @@
 
 		"favoredReligion": "Judaism",
 		"uniqueName": "The State Needs You, Cluns In Arms!",
-		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [Your] tiles>"],
+		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [Your] tiles>","Earn [50]% of killed [Land] unit's [Strength] as [Gold]"],
 		"cities": ["Darukan","Selmur","Orveth","Tharvos","Kardun","Vezrah","Omreth","Sulgar","Draveth","Morzak","Ulthar","Varnesh","Torgath","Zurekh","Lathor","Grevash","Odran","Belthar","Kurnesh","Zadrak","Vorthen"],
 	}
 ]
