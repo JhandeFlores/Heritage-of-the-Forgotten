@@ -116,8 +116,8 @@
  
 		"tradeRequest": "The State offers you gifts of rare luxury, items that only nobles and kings in Kardesh could acquire. Surely, this will benefit us both, right? But think carefully before refusing such a deal.",
 
-		"innerColor": [12,94,20],
-		"outerColor": [128,26,0],
+		"innerColor": [128,26,0],
+		"outerColor": [12,94,20],
 
 		"favoredReligion": "Judaism",
 		"uniqueName": "The State Needs You, Cluns In Arms!",
