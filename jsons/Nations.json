@@ -92,6 +92,37 @@
 		"uniqueName": "People of Cultured and Prosperity",
 		"uniques": ["[+1 Gold] [in all cities]","[+1 Culture] [in all cities]"],
 		"cities": ["Fenyang","Lianzhou","Shuyin","Qianhai","Meixian","Hanqiu","Xingdao","Longtai","Baiyun","Jinhai","Yongzhen","Zhuyang","Caixia","Ruiming","Tianshui","Guangzhouo","Zhongyue","Huailan","Mingdao","Shenhai"],
+	},
+	{
+		"name": "Clun State of Kardesh",
+		"leaderName": "King Orsoes II",
+		"adjective": ["Kardeshu"],
+		"startBias": ["Mountain","River","Grassland","Plains","Avoid [Tundra]","Avoid [Snow]","Avoid [Ice]","Avoid [Jungle]","Avoid [Marsh]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Orsoes II",
+
+		"startIntroPart1": "The casualties, my King, are too great. The constant raids and nomadic life have taken too heavy a toll on our people. We must abandon this old way. Perhaps a new life shall be born and let us The Kardeshu's settle in this lands. Though harsh, we shall endure and thrive, and in our endurance, deliver a strike most unexpected to the strangers of distant realms.",
+		"startIntroPart2": "O King Orsoes II, your decision has guided us well. The Clun State of Kardesh shall endure storms of war and winters of despair. Not the blades of foes, nor the engines of war, nor even the will of the gods themselves shall shake our resolve, for our name shall be written among the eternal scriptures in the kingdoms of the world.",
+
+		"declaringWar": "The Cluns of Kardesh rise united, and your kingdom shall vanish from the chronicles of men, as if it never was.",
+		"attacked": "You bastard! You dare to strike at the Kardeshu's? Then know this: the united Cluns shall rise as one, and your assault shall become the cause of your downfall.",
+		"defeated": "Traitors! All of you! Betrayed by its own Cluns! Cowards and curs, gnawing at each other while our enemies has it's laugh and our legacy dies!",
+		"introduction": "Ah… another shaped by divine mercy. I am King Orsoes II, sovereign of the Clun State of Kardesh. I expect you only to bring peace to these lands — take this as both a greeting and a warning.",
+		"denounced": "Your denouncement is but a token, and it will be remembered. For the Cluns of Kardesh shall record them for generations, remembered as the day your nation sought to test us — nearly breaking our strength.",
+		"declaringFriendship": "I had not expected of such accord, yet I shall extend my hand this once. For the benefit of both our peoples, consider this offer well — for to cast it aside would wound not just your cause, but ours alike.",
+
+		"neutralHello": "Ugh, you again! What is it this time bring your presence in my State? A demand? Perhaps a bargain? State your needs then!",
+		"hateHello": "Well, well… look whose face dares to appear before me. Speak your demands quickly, before I make good on my desire to slit you open.",
+ 
+		"tradeRequest": "The State offers you gifts of rare luxury, items that only nobles and kings in Kardesh could acquire. Surely, this will benefit us both, right? But think carefully before refusing such a deal.",
+
+		"innerColor": [12,94,20],
+		"outerColor": [128,26,0],
+
+		"favoredReligion": "Judaism",
+		"uniqueName": "The State Needs You, Cluns In Arms!",
+		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [Your] tiles>","Earn [50]% of killed [Land] unit's [Strength] as [Gold]"],
+		"cities": ["Darukan","Selmur","Orveth","Tharvos","Kardun","Vezrah","Omreth","Sulgar","Draveth","Morzak","Ulthar","Varnesh","Torgath","Zurekh","Lathor","Grevash","Odran","Belthar","Kurnesh","Zadrak","Vorthen"],
 	}
 ]
 
