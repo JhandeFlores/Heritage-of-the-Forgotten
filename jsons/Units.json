@@ -116,6 +116,6 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit", "Can move after attacking"],
 		"hurryCostModifier": 25,
-		"attackSound": "horse"
+		"attackSound": "Kardeshian Cavalry"
 	},
 ]
