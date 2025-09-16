@@ -100,4 +100,22 @@
 		"hurryCostModifier": 35,
 		"attackSound": "F.M.S. Qianlong",
 	},
+
+	//Clun State Of Kardesh Units
+	
+	{
+		"name": "Kardeshian Cavalry",
+		"unitType": "Archery",
+		"movement": 6,
+		"strength": 8,
+		"rangedStrength": 12,
+		"cost": 50,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit", "Can move after attacking"],
+		"hurryCostModifier": 25,
+		"attackSound": "horse"
+	},
 ]
