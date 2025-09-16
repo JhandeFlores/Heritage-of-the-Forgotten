@@ -106,6 +106,8 @@
 	{
 		"name": "Kardeshian Cavalry",
 		"unitType": "Archery",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Clun State Of Kardesh",
 		"movement": 6,
 		"strength": 8,
 		"rangedStrength": 12,
