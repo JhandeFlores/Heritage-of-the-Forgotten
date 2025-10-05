@@ -28,7 +28,7 @@
 		"cost": 50,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["May upgrade to [Longswordsman] through ruin-like effects"],
+		"uniques": ["May upgrade to [Longswordsman] through ruins-like effects"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
