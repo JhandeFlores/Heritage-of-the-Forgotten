@@ -18,7 +18,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"culture": 1,
-		"uniques": ["New [Military] units starts with [20] XP [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working",
 		"quote": "Imperator, the Domus Bellica stands tall. Within its stone and flame, soldiers are forged through discipline so brutal, it rivals the torments of hell. They train not just to serve — but to challenge the very gods, should war break upon us. -Praefectus Caelus Verrian, Master of War Doctrine",
 	},
