@@ -116,7 +116,7 @@
  
 		"tradeRequest": "The State offers you gifts of rare luxury, items that only nobles and kings in Kardesh could acquire. Surely, this will benefit us both, right? But think carefully before refusing such a deal.",
 
-		"innerColor": [181,29,29],
+		"innerColor": [252,255,94],
 		"outerColor": [12,94,20],
 
 		"favoredReligion": "Judaism",
