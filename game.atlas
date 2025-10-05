@@ -34,7 +34,7 @@ BuildingIcons/Jinque
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1044, 312
+  xy: 1044, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -48,21 +48,21 @@ NationIcons/Clun State of Kardesh
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1152, 312
+  xy: 1360, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1044, 96
+  xy: 1468, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1044, 204
+  xy: 1252, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -81,23 +81,30 @@ UnitIcons/F.M.S. Qianlong
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Qiuang Mao
+UnitIcons/Kardeshian Cavalry
   rotate: false
   xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Thamusera
+UnitIcons/Qiuang Mao
   rotate: false
   xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Zuleptares
+UnitIcons/Thamusera
   rotate: false
   xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Zuleptares
+  rotate: false
+  xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
