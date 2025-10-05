@@ -27,14 +27,14 @@ BuildingIcons/Domus Bellica
   index: -1
 BuildingIcons/Jinque
   rotate: false
-  xy: 628, 212
+  xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1044, 104
+  xy: 1252, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -55,14 +55,14 @@ NationIcons/Fenyang Grandasty
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1468, 312
+  xy: 1252, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1252, 312
+  xy: 1252, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -81,30 +81,37 @@ UnitIcons/F.M.S. Qianlong
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Kardeshian Cavalry
+UnitIcons/Goliath's Shot
   rotate: false
-  xy: 628, 4
+  xy: 628, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Qiuang Mao
+UnitIcons/Kardeshian Cavalry
   rotate: false
   xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Thamusera
+UnitIcons/Qiuang Mao
   rotate: false
   xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Zuleptares
+UnitIcons/Thamusera
   rotate: false
   xy: 1044, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Zuleptares
+  rotate: false
+  xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
