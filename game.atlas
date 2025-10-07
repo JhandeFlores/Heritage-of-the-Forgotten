@@ -6,112 +6,119 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bibliotheca Sanctum
   rotate: false
-  xy: 4, 212
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Divine Tulepsar
   rotate: false
-  xy: 212, 212
+  xy: 476, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Domus Bellica
   rotate: false
-  xy: 212, 4
+  xy: 684, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Jinque
   rotate: false
-  xy: 628, 4
+  xy: 1516, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+LeaderIcons/Imperator Valmir Arkalon
+  rotate: false
+  xy: 4, 212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1252, 312
+  xy: 1932, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Clun State of Kardesh
   rotate: false
-  xy: 4, 4
+  xy: 268, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1360, 312
+  xy: 944, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1252, 96
+  xy: 1052, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1252, 204
+  xy: 836, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elitonares
   rotate: false
-  xy: 420, 212
+  xy: 892, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/F.M.S. Qianlong
   rotate: false
-  xy: 420, 4
+  xy: 1100, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Goliath's Shot
   rotate: false
-  xy: 628, 212
+  xy: 1308, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kardeshian Cavalry
   rotate: false
-  xy: 836, 212
+  xy: 1724, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Qiuang Mao
   rotate: false
-  xy: 836, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 1044, 212
+  xy: 420, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 1044, 4
+  xy: 628, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
