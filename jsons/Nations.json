@@ -143,7 +143,14 @@
 		"declaringFriendship": "Im very pleased to be my friend throughout the ages, as a reward of being a good boy, accept this agreement and we will reign in peace",
 
 		"neutralHello": "Im currently busy as of now for Im focused to spearhead the boundaries of technologies in this world but to discuss with you is my priority, so — what brings you to my Empire?",
-		
-		
+		"hateHello": "How dare are you to show your face infront of my Empire?! Let us dismiss this discussion earlier before chaos unfolded",
+
+		"tradeRequest": "The Empire has given you a goodies that will surely satisfy our people's needs",
+
+		"favoredReligion": "Cult of Yan'ad",
+		"uniqueName": "United We Strong, United We Thrive",
+		"uniques": ["[+10]% [Science] from every [University]","[+1 Science, +1 Production] from [Strategic resource] tiles [in all cities]"],
+		"cities": ["Floresium","Nexura","Vionis","Caldyne","Aerithra","Zynthrix","Solven","Kryona","Delthar","Novyra","Olyndra","Phorix","Lirentis","Sygnar","Vareon"],
+	},		
 ]
 
