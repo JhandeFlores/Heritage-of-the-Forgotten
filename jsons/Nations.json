@@ -123,6 +123,16 @@
 		"uniqueName": "The State Needs You, Cluns In Arms!",
 		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [your] tiles>","Earn [50]% of killed [Land] unit's [Strength] as [Gold]"],
 		"cities": ["Darukan","Selmur","Orveth","Tharvos","Kardun","Vezrah","Omreth","Sulgar","Draveth","Morzak","Ulthar","Varnesh","Torgath","Zurekh","Lathor","Grevash","Odran","Belthar","Kurnesh","Zadrak","Vorthen"],
-	}
+	},
+	{
+		"name": "Jhandrix Empire",
+		"leaderName": "Queen Jhande Floresia",
+		"adjective": ["Floresians"],
+		"startBias": ["Grassland","Hill","Avoid [Tundra]","Avoid [River]","Avoid [Snow]","Avoid [Desert]","Avoid [Mountain]","Avoid [Ice]","Avoid [Jungle]","Avoid [Marsh]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Queen Jhande",
+
+		"startIntroPart1": "Oh Queen, Millions of
+		
 ]
 
