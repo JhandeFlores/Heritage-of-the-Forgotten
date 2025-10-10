@@ -25,9 +25,30 @@ BuildingIcons/Domus Bellica
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Jinque
+BuildingIcons/Encampment
+  rotate: false
+  xy: 1156, 268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/God of Science
   rotate: false
   xy: 1572, 268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Jinque
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vault of Hidden Knowledge
+  rotate: false
+  xy: 1252, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -48,7 +69,7 @@ LeaderIcons/King Orsoes II
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1044, 160
+  xy: 1668, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,21 +83,21 @@ NationIcons/Clun State of Kardesh
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1260, 160
+  xy: 1884, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1368, 160
+  xy: 1668, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1152, 160
+  xy: 1776, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -90,42 +111,42 @@ UnitIcons/Elitonares
   index: -1
 UnitIcons/F.M.S. Qianlong
   rotate: false
-  xy: 1156, 268
+  xy: 1364, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Goliath's Shot
   rotate: false
-  xy: 1364, 268
+  xy: 1780, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kardeshian Cavalry
   rotate: false
-  xy: 1780, 268
+  xy: 628, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Qiuang Mao
   rotate: false
-  xy: 420, 4
+  xy: 836, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 628, 60
+  xy: 1044, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 836, 60
+  xy: 1460, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
