@@ -123,6 +123,34 @@
 		"uniqueName": "The State Needs You, Cluns In Arms!",
 		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [your] tiles>","Earn [50]% of killed [Land] unit's [Strength] as [Gold]"],
 		"cities": ["Darukan","Selmur","Orveth","Tharvos","Kardun","Vezrah","Omreth","Sulgar","Draveth","Morzak","Ulthar","Varnesh","Torgath","Zurekh","Lathor","Grevash","Odran","Belthar","Kurnesh","Zadrak","Vorthen"],
-	}
+	},
+	{
+		"name": "Jhandrix Empire",
+		"leaderName": "Queen Jhande Floresia",
+		"adjective": ["Floresians"],
+		"startBias": ["Grassland","Hill","Avoid [Tundra]","Avoid [River]","Avoid [Snow]","Avoid [Desert]","Avoid [Mountain]","Avoid [Ice]","Avoid [Jungle]","Avoid [Marsh]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Queen Jhande",
+
+		"startIntroPart1": "Oh Professor, Many have believed upon your experiments of a thousands. Many have expected, yet expecations comes at great grave if things go south. No one has thought you would fail, and as a punishment you have been exiled by the many by putting you to your very own invention of throwing you back to the very first stirrings of life in the World.",
+		"startIntroPart2": "Now I have declare you as a Queen for your very first civilization. Reign your empire and mark a history that would last for generations. Change your path and the path of your own people who have betrayed you, march your armies with your wisdom and bring either chaos or peace in this world.",
+
+		"declaringWar": "The Destiny have paved a way for the Empire, a way in which you will be the obstacle that I must bring down, surrender earlier or face the armies of a thousand",
+		"attacked": "Your Troops have been annihilated before even they stood step upon my borders",
+		"defeated": "For the second time, I have.. failed but not from my people but from my actions at the very least, Long live the Empire.",
+		"introduction": "A Civilization from the other parts of the World! You are welcome to enter my Empire only if you wish not to dare lay hands on us.",
+		"denounced": "What's wrong? Jelous upon my technologies? My Achievements? Huh! Dream on you filthy leech",
+		"declaringFriendship": "Im very pleased to be my friend throughout the ages, as a reward of being a good boy, accept this agreement and we will reign in peace",
+
+		"neutralHello": "Im currently busy as of now for Im focused to spearhead the boundaries of technologies in this world but to discuss with you is my priority, so — what brings you to my Empire?",
+		"hateHello": "How dare are you to show your face infront of my Empire?! Let us dismiss this discussion earlier before chaos unfolded",
+
+		"tradeRequest": "The Empire has given you a goodies that will surely satisfy our people's needs",
+
+		"favoredReligion": "Cult of Yan'ad",
+		"uniqueName": "United We Strong, United We Thrive",
+		"uniques": ["[+10]% [Science] from every [University]","[+1 Science, +1 Production] from [Strategic resource] tiles [in all cities]"],
+		"cities": ["Floresium","Nexura","Vionis","Caldyne","Aerithra","Zynthrix","Solven","Kryona","Delthar","Novyra","Olyndra","Phorix","Lirentis","Sygnar","Vareon"],
+	},		
 ]
 
