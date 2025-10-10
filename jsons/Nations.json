@@ -132,7 +132,18 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Queen Jhande",
 
-		"startIntroPart1": "Oh Queen, Millions of
+		"startIntroPart1": "Oh Professor, Many have believed upon your experiments of a thousands. Many have expected, yet expecations comes at great grave if things go south. No one has thought you would fail, and as a punishment you have been exiled by the many by putting you to your very own invention of throwing you back to the very first stirrings of life in the World.",
+		"startIntroPart2": "Now I have declare you as a Queen for your very first civilization. Reign your empire and mark a history that would last for generations. Change your path and the path of your own people who have betrayed you, march your armies with your wisdom and bring either chaos or peace in this world.",
+
+		"declaringWar": "The Destiny have paved a way for the Empire, a way in which you will be the obstacle that I must bring down, surrender earlier or face the armies of a thousand",
+		"attacked": "Your Troops have been annihilated before even they stood step upon my borders",
+		"defeated": "For the second time, I have.. failed but not from my people but from my actions at the very least, Long live the Empire.",
+		"introduction": "A Civilization from the other parts of the World! You are welcome to enter my Empire only if you wish not to dare lay hands on us.",
+		"denounced": "What's wrong? Jelous upon my technologies? My Achievements? Huh! Dream on you filthy leech",
+		"declaringFriendship": "Im very pleased to be my friend throughout the ages, as a reward of being a good boy, accept this agreement and we will reign in peace",
+
+		"neutralHello": "Im currently busy as of now for Im focused to spearhead the boundaries of technologies in this world but to discuss with you is my priority, so — what brings you to my Empire?",
+		
 		
 ]
 
