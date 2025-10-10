@@ -116,4 +116,33 @@
       "Order": 8,
     }
   },
+  {
+    "name": "Queen Jhande",
+    "production": 5,
+    "food": 5,
+    "gold": 7,
+    "science": 10,
+    "culture": 2,
+    "happiness": 6,
+    "faith": 8,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 7,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 6,
+    "expansion": 7,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 8,
+      "Honor": 5,
+      "Commerce": 7,
+      "Patronage": 1,
+      "Piety": 0,
+      "Rationalism": 10,
+      "Freedom": 3,
+      "Autocracy": 10,
+      "Order": 0
+    }
+  },
 ]
