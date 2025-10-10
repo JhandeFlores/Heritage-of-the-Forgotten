@@ -45,4 +45,14 @@
 		"percentStatBonus": {"gold": 20},
 		"requiredTech": "Currency",
 	},
+	{
+		"name": "Encampment",
+		"replaces": "Barracks",
+		"uniqueTo": "Clun State of Kardesh",
+		"maintenance": 2,
+		"production": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["New [Melee] units start with [20] XP [in this city]","[+20]% Production when constructing [Melee] units [in all cities]"],
+		"requiredTech": "Bronze Working",
+	},
 ]
