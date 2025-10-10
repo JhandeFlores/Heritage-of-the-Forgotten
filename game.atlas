@@ -1,152 +1,173 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bibliotheca Sanctum
   rotate: false
-  xy: 4, 4
+  xy: 268, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Divine Tulepsar
   rotate: false
-  xy: 212, 4
+  xy: 268, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Domus Bellica
   rotate: false
-  xy: 740, 268
+  xy: 476, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Encampment
   rotate: false
-  xy: 1156, 268
+  xy: 476, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/God of Science
   rotate: false
-  xy: 1572, 268
+  xy: 684, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Jinque
   rotate: false
-  xy: 420, 4
+  xy: 892, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vault of Hidden Knowledge
   rotate: false
-  xy: 1252, 60
+  xy: 1516, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Imperator Valmir Arkalon
   rotate: false
-  xy: 4, 212
+  xy: 4, 684
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/King Orsoes II
   rotate: false
-  xy: 268, 212
+  xy: 4, 420
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
+LeaderIcons/Queen Jhande Floresia
+  rotate: false
+  xy: 1308, 532
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1668, 160
+  xy: 268, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Clun State of Kardesh
   rotate: false
-  xy: 532, 268
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1884, 160
+  xy: 1932, 840
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jhandrix Empire
+  rotate: false
+  xy: 376, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1668, 52
+  xy: 484, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1776, 160
+  xy: 1724, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elitonares
   rotate: false
-  xy: 948, 268
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/F.M.S. Qianlong
   rotate: false
-  xy: 1364, 268
+  xy: 684, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Goliath's Shot
   rotate: false
-  xy: 1780, 268
+  xy: 892, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kardeshian Cavalry
   rotate: false
-  xy: 628, 60
+  xy: 1100, 740
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Precision Musket
+  rotate: false
+  xy: 1100, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Qiuang Mao
   rotate: false
-  xy: 836, 60
+  xy: 1308, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 1044, 60
+  xy: 1516, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 1460, 60
+  xy: 1724, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
