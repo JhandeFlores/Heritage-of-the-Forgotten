@@ -90,21 +90,28 @@ NationIcons/Clun State of Kardesh
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1932, 840
+  xy: 376, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Jhandrix Empire
   rotate: false
-  xy: 376, 424
+  xy: 484, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 484, 424
+  xy: 592, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Cult of Yan'ad
+  rotate: false
+  xy: 1932, 840
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
