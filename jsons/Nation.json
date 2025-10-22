@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Arkanthéa",
+		"leaderName": "Imperator Valmir Arkalon",
+		"adjective": ["Arkanians"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		"personality": "Valmir",
+		
+		"startIntroPart1": "All hail, Imperator! Our expedition has borne fruit. After long years of vigilance and preparation, we have at last discovered a land worthy of Arkanthéa — one that shall test not only the passage of time, but the resolve of any enemy who dares oppose us. The Arkanians await your triumph with pride and unwavering faith.",
+		"startIntroPart2": "Shall then, It is our time to reign in this uncivilized lands",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "Your attacks are no match for us, mere mortal.",
+		"defeated": "I believed we would stand forever. Now, I see even gods can fall.",
+		"introduction": "A mortal stands before me. Bold. Let us see if the gods sent a servant... or a sacrifice.",
+		"denounced": "My my, being bold now, mortal? Count yourself fortunate for I have patience left.",
+		"declaringFriendship": "I have bring forth an agreement that would surely benefit not only you but also for Arkanthéa. Think wisely before refusing such rare deal."
+		
+		"neutralHello": "Greetings, mere mortal. You stand before Arkanthéa — world of the gods, cradle of law, and seat of everlasting dominion. Conduct yourself accordingly.",
+		"hateHello": "This world suffers enough without your kind wandering it. Speak quickly — Arkanthéa does not entertain vermin for long.",
+		
+		"tradeRequest": "Trade with Arkanthéa is a privilege. Treat it as such, or we’ll take what you hoard by other means.",
+
+		"outerColor": [245,73,39],
+		"innerColor": [62,36,101],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Flame of Order",
+		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+1 Culture] from every [Grassland]"],
+		"cities": ["Solanthéa","Velkoryn","Arkazar","Teneraxa","Myrrakos","Domus Virellia","Cyrnasséa",
+			"Valtheron","Lumaquor","Orinthaléa","Ythera","Molturra","Astronar","Elkyrion","Thoros-Mira", 
+			"Hallaxa","Illustrium","Nivaroth"],
+	},
+	{
+		"name": "Zamutra",
+		"leaderName": "Ishkaru Velmuneth III",
+		"adjective": ["Zamutranians"],
+		"startBias": ["Desert","River","Avoid [Tundra]","Avoid [Grassland]","Avoid [Hill]","Avoid [Coast]","Avoid [Snow]","Avoid [Plains]","Avoid [Jungle]","Avoid [Forest]","Avoid [Marsh]","Avoid [Lakes]","Avoid [Ice]","Avoid [Mountain]","Avoid [Ocean]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Ishkaru",
+
+		"startIntroPart1": "I could scarcely believe my eyes — my Tamakhet, our Veiled Judge of Dunes, Tulepsar, has not forsaken us! Amid the cruel breath of the desert, we have found not mere water... but a river! A gift carved through the sands by divine will. Rejoice, for in this lifeline we are reborn. We shall rise from the dust, build upon its banks, and offer our worship to Tulepsar, who weighs all in silence.",
+		"startIntroPart2": "My Tamakhet, it is our time to forge our cities from dust.",
+
+		"declaringWar": "Tremble, Nekatu! Your armies shall be swallowed whole by the sands of our Veiled Judge of Dunes, Tulepsar!",
+		"attacked": "You fight the desert with steel? Amusing.",
+		"defeated": "You—what are you? To break the hand of the divine… You must be the form of 'Dushem' in the fires beneath the underworld!",
+		"introduction": "Opp! Kneel before Tulepsar, the Veiled Judge of Dunes, and you shall walk Zamutra’s sacred sands unscorched and unopposed.",
+		"denounced": "You better watch your tongue, Nekatu! Dont defy the divine Tulepsar or else bare the actions we will put againts you.",
+		"declaringFriendship": "With this agreement, both of our civilization will be blessed by The Veiled Judge of Dunes.",
+		
+		"neutralHello": "Ahh, Nekatu… Come bearing tribute for the Judge of Dunes? Or perhaps a proposal forged in mutual gain?",
+		"hateHello": "Nekatu, you again?? Speak your wishes before the Judge of Dune loses his patience.",
+
+		"tradeRequest": "‘O Nekatu of distant sands! By the will of Tulepsar, the Judge of Dunes, the children of Zamutra bring forth sacred offerings. Accept them in reverence — or bear the shifting wrath of the desert.",
+
+		"outerColor": [242,234,211],
+		"innerColor": [212,175,55],
+		"favoredReligion": "Islam",
+		"uniqueName": "Treasure in the Sands",
+		"uniques": ["[+1 Production] from every [Desert]","[+1 Gold] from every [Desert]"],
+		"cities": ["Nekheptra","Asumekh","Djeraten","Hekunem","Talasur","Menkaur","Zesuneth","Ulpetra",
+			"Saretun","Vautekh","Khunabek","Etnaptra","Sahureth","Tjemhara","Merukhet","Pahurun",
+			"Sabekun","Afenur","Tjusemet"],
+	},
+	{
+		"name": "Fenyang Grandasty",
+		"leaderName": "Huangxi Yun Qianlong",
+		"adjective": ["Grandese"],
+		"startBias": ["Grassland","River","Hill","Avoid [Tundra]","Avoid [Ice]","Avoid [Mountain]"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Yun Qianlong",
+
+		"startIntroPart1": "I can’t go on like this, Huangxi Yun. We crossed the Murotai Desert moons ago, yet the horizon still yields nothing for us to call home. Shall we abandon this dream?",
+		"startIntroPart2": "No, you say? Ugh… if you insist, Huangxi Yun. Wait—over there! A grassland… and a river! Finally! We can plant our cities here, build for generations, and forge a legacy of our own. This… this will be worth the journey! Huangxi Yun, the Grandese will surely prosper!",
+
+		"declaringWar": "I had hoped our peoples would walk together. Yet your actions leave me no choice—Fenyang shall rise over your lands, and you will be remade in our image.",
+		"attacked": "Once we drank from the same river of peace; now you poison its waters. Fenyang will cleanse the stream, but not without defending its source.",
+		"defeated": "The world has always whispered of the rise and fall of empires. Today, that whisper has become my reality.",
+		"introduction": "Oh, Greetings from another civilization. Welcome to Fenyang Grandasty, where culture and prosperity is a priority than the ones with oddity. Hope our relation would be stable as the one fine linen I have given to you.",
+		"denounced": "Are you mocking us for being to coward? Chose your words carefully, Visitor. You dont know who you are talking to.",
+		"declaringFriendship": "Visitor, Fenyang seeks to weave stronger ties with you, that both our peoples may prosper in harmony.",
+		
+		"neutralHello": "Oh, Traveller! Care to discuss talks for our benificial or just wanted to witness the beauty of Fenyang again?",
+		"hateHello": "Our relationship is eerily similar to a fine broken glass—It can be fix, yes. But the scars have became already evident.",
+
+		"tradeRequest": "Oh, emissary of another land, here are the gifts of Fenyang. They are but humble works of our artisans, yet they carry our heart. Should you accept, we rejoice; should you refuse, we bow in understanding.",
+
+		"outerColor": [0,56,168],
+		"innerColor": [253,201,2],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "People of Cultured and Prosperity",
+		"uniques": ["[+1 Gold] [in all cities]","[+1 Culture] [in all cities]"],
+		"cities": ["Fenyang","Lianzhou","Shuyin","Qianhai","Meixian","Hanqiu","Xingdao","Longtai","Baiyun","Jinhai","Yongzhen","Zhuyang","Caixia","Ruiming","Tianshui","Guangzhouo","Zhongyue","Huailan","Mingdao","Shenhai"],
+	},
+	{
+		"name": "Clun State of Kardesh",
+		"leaderName": "King Orsoes II",
+		"adjective": ["Kardeshu"],
+		"startBias": ["Mountain","River","Grassland","Plains","Avoid [Tundra]","Avoid [Snow]","Avoid [Ice]","Avoid [Jungle]","Avoid [Marsh]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Orsoes II",
+
+		"startIntroPart1": "The casualties, my King, are too great. The constant raids and nomadic life have taken too heavy a toll on our people. We must abandon this old way. Perhaps a new life shall be born and let us The Kardeshu's settle in this lands. Though harsh, we shall endure and thrive, and in our endurance, deliver a strike most unexpected to the strangers of distant realms.",
+		"startIntroPart2": "O King Orsoes II, your decision has guided us well. The Clun State of Kardesh shall endure storms of war and winters of despair. Not the blades of foes, nor the engines of war, nor even the will of the gods themselves shall shake our resolve, for our name shall be written among the eternal scriptures in the kingdoms of the world.",
+
+		"declaringWar": "The Cluns of Kardesh rise united, and your kingdom shall vanish from the chronicles of men, as if it never was.",
+		"attacked": "You bastard! You dare to strike at the Kardeshu's? Then know this: the united Cluns shall rise as one, and your assault shall become the cause of your downfall.",
+		"defeated": "Traitors! All of you! Betrayed by its own Cluns! Cowards and curs, gnawing at each other while our enemies has it's laugh and our legacy dies!",
+		"introduction": "Ah… another shaped by divine mercy. I am King Orsoes II, sovereign of the Clun State of Kardesh. I expect you only to bring peace to these lands — take this as both a greeting and a warning.",
+		"denounced": "Your denouncement is but a token, and it will be remembered. For the Cluns of Kardesh shall record them for generations, remembered as the day your nation sought to test us — nearly breaking our strength.",
+		"declaringFriendship": "I had not expected of such accord, yet I shall extend my hand this once. For the benefit of both our peoples, consider this offer well — for to cast it aside would wound not just your cause, but ours alike.",
+
+		"neutralHello": "Ugh, you again! What is it this time bring your presence in my State? A demand? Perhaps a bargain? State your needs then!",
+		"hateHello": "Well, well… look whose face dares to appear before me. Speak your demands quickly, before I make good on my desire to slit you open.",
+ 
+		"tradeRequest": "The State offers you gifts of rare luxury, items that only nobles and kings in Kardesh could acquire. Surely, this will benefit us both, right? But think carefully before refusing such a deal.",
+
+		"innerColor": [252,255,94],
+		"outerColor": [12,94,20],
+
+		"favoredReligion": "Judaism",
+		"uniqueName": "The State Needs You, Cluns In Arms!",
+		"uniques": ["[+10]% Strength <for [Land] units> <when fighting in [your] tiles>","Earn [50]% of killed [Land] unit's [Strength] as [Gold]"],
+		"cities": ["Darukan","Selmur","Orveth","Tharvos","Kardun","Vezrah","Omreth","Sulgar","Draveth","Morzak","Ulthar","Varnesh","Torgath","Zurekh","Lathor","Grevash","Odran","Belthar","Kurnesh","Zadrak","Vorthen"],
+	},
+	{
+		"name": "Jhandrix Empire",
+		"leaderName": "Queen Jhande Floresia",
+		"adjective": ["Floresians"],
+		"startBias": ["Grassland","Hill","Avoid [Tundra]","Avoid [River]","Avoid [Snow]","Avoid [Desert]","Avoid [Mountain]","Avoid [Ice]","Avoid [Jungle]","Avoid [Marsh]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Queen Jhande",
+
+		"startIntroPart1": "Oh Professor, Many have believed upon your experiments of a thousands. Many have expected, yet expecations comes at great grave if things go south. No one has thought you would fail, and as a punishment you have been exiled by the many by putting you to your very own invention of throwing you back to the very first stirrings of life in the World.",
+		"startIntroPart2": "Now I have declare you as a Queen for your very first civilization. Reign your empire and mark a history that would last for generations. Change your path and the path of your own people who have betrayed you, march your armies with your wisdom and bring either chaos or peace in this world.",
+
+		"declaringWar": "The Destiny have paved a way for the Empire, a way in which you will be the obstacle that I must bring down, surrender earlier or face the armies of a thousand",
+		"attacked": "Your Troops have been annihilated before even they stood step upon my borders",
+		"defeated": "For the second time, I have.. failed but not from my people but from my actions at the very least, Long live the Empire.",
+		"introduction": "A Civilization from the other parts of the World! You are welcome to enter my Empire only if you wish not to dare lay hands on us.",
+		"denounced": "What's wrong? Jelous upon my technologies? My Achievements? Huh! Dream on you filthy leech",
+		"declaringFriendship": "Im very pleased to be my friend throughout the ages, as a reward of being a good boy, accept this agreement and we will reign in peace",
+
+		"neutralHello": "Im currently busy as of now for Im focused to spearhead the boundaries of technologies in this world but to discuss with you is my priority, so — what brings you to my Empire?",
+		"hateHello": "How dare are you to show your face infront of my Empire?! Let us dismiss this discussion earlier before chaos unfolded",
+
+		"tradeRequest": "The Empire has given you a goodies that will surely satisfy our people's needs",
+
+		"innerColor": [255,251,3],
+		"outerColor": [144,3,252],
+
+		"favoredReligion": "Cult of Yan'ad",
+		"uniqueName": "United We Strong, United We Thrive",
+		"uniques": ["[+10]% [Science] from every [University]","[+1 Science, +1 Production] from [Strategic resource] tiles [in all cities]"],
+		"cities": ["Floresium","Nexura","Vionis","Caldyne","Aerithra","Zynthrix","Solven","Kryona","Delthar","Novyra","Olyndra","Phorix","Lirentis","Sygnar","Vareon"],
+	},
+]
