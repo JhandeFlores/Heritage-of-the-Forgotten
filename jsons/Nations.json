@@ -147,8 +147,8 @@
 
 		"tradeRequest": "The Empire has given you a goodies that will surely satisfy our people's needs",
 
-		"innerColor": [255, 251, 3],
-		"outerColor": [144, 3, 252],
+		"innerColor": [255,251,3],
+		"outerColor": [144,3,252],
 
 		"favoredReligion": "Cult of Yan'ad",
 		"uniqueName": "United We Strong, United We Thrive",
