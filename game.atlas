@@ -88,37 +88,51 @@ NationIcons/Clun State of Kardesh
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Fenyang Grandasty
+NationIcons/Crownwright Union
   rotate: false
   xy: 1216, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Jhandrix Empire
-  rotate: false
-  xy: 1324, 632
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Zamutra
+NationIcons/Fenyang Grandasty
   rotate: false
   xy: 1432, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Jhandrix Empire
+  rotate: false
+  xy: 1540, 632
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zamutra
+  rotate: false
+  xy: 1648, 632
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Cogsanctum
+  rotate: false
+  xy: 1000, 632
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Cult of Yan'ad
   rotate: false
-  xy: 1108, 632
+  xy: 1324, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1000, 632
+  xy: 1108, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
