@@ -182,7 +182,7 @@
 		"innerColor": [176, 140, 87],
 		"favoredReligion": "Cogsanctum",
 		"uniqueName": "Crude and Cogs Doctrine",
-		"uniques": ["[+10]% Production when constructing [Worker] units [in all cities]", "[+100]% [Oil] resource production","[+1 Gold] [in [capital] cities]"],
+		"uniques": ["[+10]% Production when constructing [Worker] units [in all cities]","[+100]% [Oil] resource production","[+1 Gold] [in [capital] cities]"],
 		"cities": ["Newminster","Gearhaven","Ironborough","Steamwick","Brassminster","Coalchester","Highcrown","Cogsworth","Crownstead","Port Varrenton","Aetherford","Glassmere","Wattshire","Copperleigh","Ashbourne","Velmouth","Tessington","Aldervale","Ironreach","New Hemsleigh","Eastwell Outpost"],
 	},
 ]
