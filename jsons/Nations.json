@@ -154,6 +154,35 @@
 		"uniqueName": "United We Strong, United We Thrive",
 		"uniques": ["[+10]% [Science] from every [University]","[+1 Science, +1 Production] from [Strategic resource] tiles [in all cities]"],
 		"cities": ["Floresium","Nexura","Vionis","Caldyne","Aerithra","Zynthrix","Solven","Kryona","Delthar","Novyra","Olyndra","Phorix","Lirentis","Sygnar","Vareon"],
-	},		
+	},
+	{
+		"name": "Crownwright Union",
+		"leaderName": "Archmechanist Edmund Lawson",
+		"adjective": ["Wrightians"],
+		"startBias": ["Grassland","Hill","Forest","Avoid [Tundra]","Avoid [Desert]","Avoid [Ice]","Avoid [Jungle]","Avoid [Mountain]","Avoid [River]","Avoid [Coast]","Avoid [Snow]","Avoid [Marsh]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Edmund Lawson",
+		
+		"startIntroPart1": "Oh, Edmund of Great Wonders. You have proven to the Union that you are indeed worthy to rule. Steam engines roar toward the heavens, the air thick with innovation and triumph. Under your reign, the gears of progress turn ceaselessly, and the boundaries of science and productivity are but mere stepping stones to greater conquest.",
+		"startIntroPart2": "Yet this is not enough. Beyond these shores lie worlds unshaped by your genius — lands waiting to feel the warmth of your furnaces and the march of your iron legions. If you can cast the breath of steam upon distant horizons, then do so once more, and all Wrightians shall kneel before your emblem of progress. Ferra Vitae Unionem",
+		
+		"declaringWar": "Your civilization reeks of crude and unrefined smoke. Let the Union show you what true mastery of steam and steel looks like!",
+		"attacked": "Your governance was flawed from the beginning. This conflict was inevitable — and your envy of our engines merely hastened it.",
+		"defeated": "You will never get our engines! Herald! Burn them now! Enjoy your useless use of force just to obtain a broken machinery..",
+		"introduction": "Oh, the warmest greetings to be given by this humble fellow. I am Edmund Lawson, Archmechanist of the Crownwright Union. Accept my delegation, and let us retire to my abode — where the refined smokes of steam can be seen rising so ever proudly. Come, follow me.",
+		"denounced": "Steaming from both ears, are you? Ha! Get the joke? No matter — insult us all you like, our dedication of steam won't vanish anyways.",
+		"declaringFriendship": "Your administration bears the mark of refinement. It would honor the Union to stand beside such cultivated leadership in the spirit of advancement.",
+		
+		"neutralHello": "How do you do?, leader of most curious civilization. I expect you came here for something.",
+		"hateHello": "Wretch! Keep your distance from our borders. You are unworthy of the Union — in the meantime, our diplomats will deal with you shortly.",
+		
+		"tradeRequest": "It seems we both require the needs to sustain our inventions and meet the quotas that fuel our civilizations.",
+
+		"outerColor": [50, 62, 89],
+		"innerColor": [176, 140, 87],
+		"favoredReligion": "Cogsanctum",
+		"uniqueName": "Crude and Cogs Doctrine",
+		"uniques": ["[+10]% Production when constructing [Worker] units [in all cities]", "[+100]% [Oil] resource production","[+1 Gold] [in [capital] cities]"],
+		"cities": ["Newminster","Gearhaven","Ironborough","Steamwick","Brassminster","Coalchester","Highcrown","Cogsworth","Crownstead","Port Varrenton","Aetherford","Glassmere","Wattshire","Copperleigh","Ashbourne","Velmouth","Tessington","Aldervale","Ironreach","New Hemsleigh","Eastwell Outpost"],
 ]
 
