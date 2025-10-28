@@ -77,6 +77,7 @@
 		"science": 3,
 		"faith": 1
 		"maintenance": 3,
+		"isNationalWonder": "True",
 		"uniques": ["Free [Great Prophet] appears","Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [40] per owned city"],
 		"requiredTech": "Drama and Poetry",
 	},	
