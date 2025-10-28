@@ -144,4 +144,33 @@
       "Order": 0
     }
   },
+  {
+    "name": "Edmund Lawson",
+    "production": 10,
+    "food": 2,
+    "gold": 5,
+    "science": 7,
+    "culture": 2,
+    "happiness": 9,
+    "faith": 3,
+    "military": 10,
+    "aggressive": 8,
+    "declareWar": 9,
+    "commerce": 10,
+    "diplomacy": 0,
+    "loyal": 4,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 4,
+      "Honor": 10,
+      "Commerce": 7,
+      "Patronage": 2,
+      "Piety": 0,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 6,
+      "Order": 10,
+    }
+  },
 ]
