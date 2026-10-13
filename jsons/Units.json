@@ -149,4 +149,16 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "Precision Musket"
 	},
+
+	//Crownwright Union
+
+	{
+		"name": "Steam Suits",
+		"replaces": "Musketman",
+		"uniqueTo": "Crownwright Union",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 180,
+		"uniques": [
 ]
